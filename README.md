@@ -84,7 +84,19 @@
 </head>
 <body>
   <h1>صورة المنتج</h1>
-  <img src=1-6Ksn61bn7Cnvolup9MUOzV_RjhgumsK" alt="صورة المنتج" style="width: 300px; height: auto;">
+  <img src=<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عرض الصورة</title>
+</head>
+<body>
+  <h1>صورة المنتج</h1>
+  <img src="https://drive.google.com/uc?id=1-6Ksn61bn7Cnvolup9MUOzV_RjhgumsK" alt="صورة المنتج" style="width: 300px; height: auto;">
+</body>
+</html>
+    " alt="صورة المنتج" style="width: 300px; height: auto;">
 </body>
 </html>
       <div class="product-info">
