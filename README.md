@@ -74,9 +74,7 @@
 
   <div class="container">
     <!-- قسم المنتجات -->
-    <div class="product-card">
-      <img src="https://via.placeholder.com/300" alt="صورة المنتج"><!DOCTYPE html>
-<html lang="ar">
+    
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
