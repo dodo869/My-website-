@@ -75,7 +75,18 @@
   <div class="container">
     <!-- قسم المنتجات -->
     <div class="product-card">
-      <img src="https://via.placeholder.com/300" alt="صورة المنتج">
+      <img src="https://via.placeholder.com/300" alt="صورة المنتج"><!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عرض الصورة</title>
+</head>
+<body>
+  <h1>صورة المنتج</h1>
+  <img src="https://drive.google.com/uc?id=1-6Ksn61bn7Cnvolup9MUOzV_RjhgumsK" alt="صورة المنتج" style="width: 300px; height: auto;">
+</body>
+</html>
       <div class="product-info">
         <h2> Valentino </h2>
         <p> حقائب نسائيه متوسطه الحجم Valentino .</p>
