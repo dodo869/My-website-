@@ -1,4 +1,4 @@
-# My-website-
+# Dz E-EMPIRE-
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <h1>مرحبًا بكم في متجرنا</h1>
+    <h1>Dz E-EMPIRE مرحبًا بكم في متجرنا</h1>
     <p>اكتشف أفضل المنتجات بأسعار مذهلة</p>
   </header>
 
@@ -77,18 +77,18 @@
     <div class="product-card">
       <img src="https://via.placeholder.com/300" alt="صورة المنتج">
       <div class="product-info">
-        <h2>اسم المنتج</h2>
-        <p>وصف مختصر للمنتج هنا.</p>
-        <p>السعر: 1500 دج</p>
+        <h2> Valentino </h2>
+        <p> حقائب نسائيه متوسطه الحجم Valentino .</p>
+        <p>السعر: 5200 دج</p>
       </div>
     </div>
 
     <div class="product-card">
       <img src="https://via.placeholder.com/300" alt="صورة المنتج">
       <div class="product-info">
-        <h2>اسم المنتج</h2>
-        <p>وصف مختصر للمنتج هنا.</p>
-        <p>السعر: 2500 دج</p>
+        <h2> Hermes </h2>
+        <p> حقائب نسائيه متوسطه الحجم Hermes .</p>
+        <p>السعر: 6200 دج</p>
       </div>
     </div>
 
