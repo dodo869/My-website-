@@ -84,7 +84,7 @@
 </head>
 <body>
   <h1>صورة المنتج</h1>
-  <img src="https://drive.google.com/uc?id=1-6Ksn61bn7Cnvolup9MUOzV_RjhgumsK" alt="صورة المنتج" style="width: 300px; height: auto;">
+  <img src=1-6Ksn61bn7Cnvolup9MUOzV_RjhgumsK" alt="صورة المنتج" style="width: 300px; height: auto;">
 </body>
 </html>
       <div class="product-info">
