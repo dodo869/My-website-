@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <h1>Dz E-EMPIRE مرحبًا بكم في متجرنا</h1>
+    <h1> boutique Dz E-EMPIRE مرحبًا بكم في </h1>
     <p>اكتشف أفضل المنتجات بأسعار مذهلة</p>
   </header>
 
